@@ -46,7 +46,7 @@ footer {
   clear: both;
 }
 
-@media (max-width: 430px) {
+@media (max-width: 690px) {
   .logo {
     width: 50%;
   }
